@@ -1,0 +1,15 @@
+html {
+    background-color: #162623;
+}
+
+.navigation {
+    width: 100%;
+    display: inline-block;
+    background-color: #214642;
+    color: #ccf6ef;
+}
+
+h1 {
+    color:#00b8a9;
+    text-shadow: darkturquoise;
+}
