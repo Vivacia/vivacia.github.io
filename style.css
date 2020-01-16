@@ -10,12 +10,18 @@ html {
     font-size: 32px;
 }
 
-h1 {
+.navigation a:hover {
+    color:#ff3399;
+}
+
+h1.title a {
+    text-decoration: none;
     color:#00b8a9;
-    text-shadow: darkturquoise;
+    text-shadow: 2px 2px #ff3366;
     font-family: Verdana;
 }
 
-a:hover {
-    color:#ff3399;
+p {
+    color: darkturquoise;
+    font-family: monospace;
 }
