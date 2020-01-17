@@ -5,13 +5,13 @@ html {
 .navigation a {
     width: 100%;
     color: #ccf6ef;
-    font-family: sans-serif;
+    font-family: 'Montserrat', sans-serif;
     text-decoration: none;
     font-size: 32px;
 }
 
 .navigation a:hover {
-    color:#ff3399;
+    color:#ff3366;
 }
 
 h1.title a {
@@ -19,9 +19,20 @@ h1.title a {
     color:#00b8a9;
     text-shadow: 2px 2px #ff3366;
     font-family: Verdana;
+    font-size: 70px;
+}
+
+h1.title a:hover {
+    text-decoration: none;
+    color:#ff3366;
+    text-shadow: 2px 2px #00b8a9;
+    font-family: Verdana;
+    font-size: 70px;
 }
 
 p {
     color: darkturquoise;
     font-family: monospace;
+    margin-left: 100px;
+    margin-right: 100px;
 }
